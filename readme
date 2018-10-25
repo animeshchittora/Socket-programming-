@@ -1,0 +1,17 @@
+It is a python program to handle multiple clients using "socket programming" in python.
+
+
+for this 
+1.first run server.py
+2.second run any client.py 
+3.Run another client.py 
+
+
+and check the response on the server given via client.
+
+
+
+
+
+
+
